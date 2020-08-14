@@ -1,0 +1,90 @@
+{
+    "1": {
+        "id": 1,
+        "Name": "John Smith",
+        "Role": "Creative Director",
+        "Department": "Product Design & Development",
+        "Salary": 120000,
+        "Manager": null
+    },
+    "4": {
+        "id": 4,
+        "Name": "Jenny Morgan",
+        "Role": "Design Lead",
+        "Department": "Product Design & Development",
+        "Salary": 90000,
+        "Manager": "John Smith"
+    },
+    "5": {
+        "id": 5,
+        "Name": "Sarah Brighton",
+        "Role": "Designer",
+        "Department": "Product Design & Development",
+        "Salary": 60000,
+        "Manager": "John Smith"
+    },
+    "6": {
+        "id": 6,
+        "Name": "Danny Lee",
+        "Role": "Designer",
+        "Department": "Product Design & Development",
+        "Salary": 60000,
+        "Manager": "John Smith"
+    },
+    "2": {
+        "id": 2,
+        "Name": "Lea Michelle",
+        "Role": "Senior Marketing Analyst",
+        "Department": "Marketing",
+        "Salary": 100000,
+        "Manager": null
+    },
+    "7": {
+        "id": 7,
+        "Name": "Lizzy Awender",
+        "Role": "Analyst",
+        "Department": "Marketing",
+        "Salary": 50000,
+        "Manager": "Lea Michelle"
+    },
+    "8": {
+        "id": 8,
+        "Name": "Luke Downs",
+        "Role": "Analyst",
+        "Department": "Marketing",
+        "Salary": 50000,
+        "Manager": "Lea Michelle"
+    },
+    "3": {
+        "id": 3,
+        "Name": "Craig Norman",
+        "Role": "Senior Software Engineer",
+        "Department": "Engineering & Technology",
+        "Salary": 115000,
+        "Manager": null
+    },
+    "9": {
+        "id": 9,
+        "Name": "Phil Thomas",
+        "Role": "Software Engineer II",
+        "Department": "Engineering & Technology",
+        "Salary": 75000,
+        "Manager": "Craig Norman"
+    },
+    "10": {
+        "id": 10,
+        "Name": "Lucy Spraig",
+        "Role": "Software Engineer I",
+        "Department": "Engineering & Technology",
+        "Salary": 65000,
+        "Manager": "Craig Norman"
+    },
+    "11": {
+        "id": 11,
+        "Name": "Suzie Abraha",
+        "Role": "Software Engineer Intern",
+        "Department": "Engineering & Technology",
+        "Salary": 40000,
+        "Manager": "Craig Norman"
+    }
+}

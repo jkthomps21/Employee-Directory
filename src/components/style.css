@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+
+.table-header {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0px;
+}
+
