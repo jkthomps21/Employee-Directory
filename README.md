@@ -1,7 +1,7 @@
 # Employee Directory
 [![Generic Badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io)
 
-This is an employee directory React app that generates a table using JSON data. It allows the user to sort and filter through employees. You can test the application [here]()
+This is an employee directory React app that generates a table using JSON data. It allows the user to sort and filter through employees. You can test the application [here](https://jkthomps21.github.io/Employee-Directory/).
 
 ## User Story
 ```
